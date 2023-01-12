@@ -1,2 +1,2 @@
 # MadCortez
-Config files for my GitHub profile.
+Вы кто такие?
